@@ -47,5 +47,5 @@ Required system calls:
 
 <br><br>
 
-Contributors: [Paria Khoshtab](https://github.com/Theparia/), [Ali Akhgari](https://github.com/AliAkhgari)
+**Contributors**: [Paria Khoshtab](https://github.com/Theparia/), [Ali Akhgari](https://github.com/AliAkhgari)
 
